@@ -14,7 +14,8 @@ def tampilkan_nama(teman):
             print("-", nama)
     else:
         print("Daftar teman kosong.")
-
+        
+daftar_teman = []
 while True:
     print("\nMenu:")
     print("1. Tambahkan Teman")
